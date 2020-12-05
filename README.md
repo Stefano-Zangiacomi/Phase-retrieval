@@ -1,6 +1,6 @@
 # Phase-retrieval
 
-School project in association with the ONERA the French Aerospace Lab.
+School project in association with ONERA the French Aerospace Lab.
 The project goal is to test and optimize some phase-retrieval algorithms to perform imagery through scattering media such as skin or fog.
 
 The image of an object taken through a scattering media creates a random Speckle pattern on the camera sensor.
